@@ -1,0 +1,6 @@
+c:\users\a\documents\visual studio 2015\Projects\BasicsExamTask4\MagicDates\bin\Debug\MagicDates.exe.config
+c:\users\a\documents\visual studio 2015\Projects\BasicsExamTask4\MagicDates\bin\Debug\MagicDates.exe
+c:\users\a\documents\visual studio 2015\Projects\BasicsExamTask4\MagicDates\bin\Debug\MagicDates.pdb
+c:\users\a\documents\visual studio 2015\Projects\BasicsExamTask4\MagicDates\obj\Debug\MagicDates.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2015\Projects\BasicsExamTask4\MagicDates\obj\Debug\MagicDates.exe
+c:\users\a\documents\visual studio 2015\Projects\BasicsExamTask4\MagicDates\obj\Debug\MagicDates.pdb

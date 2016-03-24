@@ -1,0 +1,6 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamTask4\MagicCarNumber\bin\Debug\MagicCarNumber.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamTask4\MagicCarNumber\bin\Debug\MagicCarNumber.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamTask4\MagicCarNumber\bin\Debug\MagicCarNumber.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamTask4\MagicCarNumber\obj\Debug\MagicCarNumbers.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamTask4\MagicCarNumber\obj\Debug\MagicCarNumber.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamTask4\MagicCarNumber\obj\Debug\MagicCarNumber.pdb

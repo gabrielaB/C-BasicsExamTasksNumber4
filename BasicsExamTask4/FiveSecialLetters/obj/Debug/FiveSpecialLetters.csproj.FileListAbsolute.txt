@@ -1,0 +1,9 @@
+c:\users\a\documents\visual studio 2015\Projects\BasicsExamTask4\BasicsExamTask4\bin\Debug\BasicsExamTask4.exe.config
+c:\users\a\documents\visual studio 2015\Projects\BasicsExamTask4\BasicsExamTask4\bin\Debug\BasicsExamTask4.exe
+c:\users\a\documents\visual studio 2015\Projects\BasicsExamTask4\BasicsExamTask4\bin\Debug\BasicsExamTask4.pdb
+c:\users\a\documents\visual studio 2015\Projects\BasicsExamTask4\BasicsExamTask4\obj\Debug\FiveSpecialLetters.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2015\Projects\BasicsExamTask4\BasicsExamTask4\obj\Debug\BasicsExamTask4.exe
+c:\users\a\documents\visual studio 2015\Projects\BasicsExamTask4\BasicsExamTask4\obj\Debug\BasicsExamTask4.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamTask4\FiveSecialLetters\bin\Debug\BasicsExamTask4.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamTask4\FiveSecialLetters\obj\Debug\BasicsExamTask4.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamTask4\FiveSecialLetters\obj\Debug\BasicsExamTask4.pdb
